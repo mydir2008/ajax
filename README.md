@@ -1,4 +1,4 @@
-##关于作者
+##about
 
 ```javascript
   var STEVEN = {
